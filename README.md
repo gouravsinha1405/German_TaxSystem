@@ -1,9 +1,7 @@
-# German_TaxSystem
-
-Notes on german taxation system
 
 
-# Here's a comprehensive list of ways to optimize German taxes
+
+# Ways to optimize German taxes
 
 ## Work-Related Deductions (Werbungskosten)
 - Home office expenses (€6 per day for 2023)  
